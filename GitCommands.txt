@@ -7,11 +7,9 @@ plan & code --git & git hub
 Version Control System
 ===============================
 Version Control System (VCS) is a software that helps software developers to work together and maintain a complete history of their work.
+ hey :wq
 
-GIT Hello
-Git Hello
-Git Hi
-Git How are you
+>>>>>>> main
 Listed below are the functions of a VCS -
 
 Allows developers to work simultaneously.
